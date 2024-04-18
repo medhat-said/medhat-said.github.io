@@ -21,11 +21,9 @@ about:
 
 ---
 
-### This content appears above the formatted about page content.
+### As you can see, there is still some work left to do on my digital garden 
 
 :::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
 ## Education
 

@@ -1,11 +1,37 @@
 ---
-title: "medhat-said.github.io"
+title: "Medhat Said"
+toc: false 
+about:
+  id: hero-heading
+  template: trestles
+  image: /images/medpic.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/medhatsaid/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/medhat_said1/
+    - icon: github
+      text: GitHub
+      href: https://github.com/medhat-said/
+    - icon: email
+      text: Email
+      href: mailto:medhatalamoudi@hotmail.com
+
 ---
 
-This is a Quarto website.
+### This content appears above the formatted about page content.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+## Experience
+
+
+:::
+
+### This content appears below the formatted about page content.

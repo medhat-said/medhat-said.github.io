@@ -18,18 +18,28 @@ about:
     - icon: email
       text: Email
       href: mailto:medhatalamoudi@hotmail.com
-
 ---
 
-### As you can see, there is still some work left to do on my digital garden 
+### As you can see, there is still some work left to do on my digital garden but here is a quick overview for now. 
 
-:::{#hero-heading}
+::: {#hero-heading}
+## Experience
+
+Currently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib which is currently being research for its repurposing potential in other disease indications.
+
+Previous intern experiences include:
+
+-   Development of a novel cardiovascular systems model to quantify drugs effects on the inter-relationship between contractility and other hemodynamic variables
+
+-   Development of a minimal PBPK model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies
 
 ## Education
 
-## Experience
+Department of Clinical Pharmacology and Pharmacy, Amsterdam UMC \| Amsterdam, the Netherlands PhD in Clinical Pharmacometrics \| Apr 2022 - *ongoing*
 
+Leiden University \| Leiden, the Netherlands MSc in Bio-Pharmaceutical Sciences \| Sept 2019 - Jul 2022
 
+Leiden University \| Leiden, the Netherlands BSc in Bio-Pharmaceutical Sciences \| Sept 2016 - Jul 2019
 :::
 
 ### This content appears below the formatted about page content.

@@ -1,3 +1,5 @@
 ---
 title: "Education"
 ---
+
+Collection of education material used during teaching activities. 

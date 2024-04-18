@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Medhat Said",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "section": "Education",
+    "text": "Education\nDepartment of Clinical Pharmacology and Pharmacy, Amsterdam UMC | Amsterdam, the Netherlands PhD in Clinical Pharmacometrics | Apr 2022 - ongoing\nLeiden University | Leiden, the Netherlands MSc in Bio-Pharmaceutical Sciences | Sept 2019 - Jul 2022\nLeiden University | Leiden, the Netherlands BSc in Bio-Pharmaceutical Sciences | Sept 2016 - Jul 2019"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Medhat Said",
+    "section": "Experience",
+    "text": "Experience\nCurrently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib which is currently being research for its repurposing potential in other disease indications.\nPrevious intern experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drugs effects on the inter-relationship between contractility and other hemodynamic variables\nDevelopment of a minimal PBPK model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies"
   }
 ]

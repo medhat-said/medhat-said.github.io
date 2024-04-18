@@ -27,7 +27,7 @@ about:
 
 Currently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib which is currently being research for its repurposing potential in other disease indications.
 
-Previous intern experiences include:
+Previous experiences include:
 
 -   Development of a novel cardiovascular systems model to quantify drugs effects on the inter-relationship between contractility and other hemodynamic variables
 

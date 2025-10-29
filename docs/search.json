@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I will write something here soon. Cannot promise it to be interesting though."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Medhat Said",
+    "section": "Experience",
+    "text": "Experience\nCurrently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.\nPrevious modelling experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drugs effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory\nDevelopment of a minimal hysiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies\nStatistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Medhat Said",
+    "section": "Teaching",
+    "text": "Teaching\nAdditionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to include PKPD and PKPD modelling in their course curriculum as well as teaching/giving lectures.\nPrevious teaching experiences include:\n\nBSc Pharmacokinetics & ADME course (2022, 2023)\nMsc Pharmacokinetics & ADME course (2022, 2023)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Medhat Said",
+    "section": "Education",
+    "text": "Education\n\nPhD in Clinical Pharmacometrics | Apr 2022 - ongoing\nDepartment of Clinical Pharmacology and Pharmacy, Amsterdam UMC | Amsterdam, the Netherlands\nMSc in Bio-Pharmaceutical Sciences | Sept 2019 - Mar 2022\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands\nBSc in Bio-Pharmaceutical Sciences | Sept 2016 - Jul 2019\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands"
+  }
+]

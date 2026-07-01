@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I will write something here soon. Cannot promise it to be interesting though."
+    "text": "I am a pharmacometrician and PhD candidate in the Department of Clinical Pharmacology and Pharmacy at Amsterdam UMC. My work centres on population pharmacokinetic and pharmacodynamic (PKPD) modelling — using mathematical and statistical models to describe how drugs move through the body and produce their effects, and to translate that understanding into better dosing decisions.\nI trained at Leiden University, where I completed both my BSc and MSc in Bio-Pharmaceutical Sciences with a focus on Quantitative Pharmacology. Alongside my research, I enjoy teaching and supervising students, and helping to bring pharmacometric methods into the classroom.\nFeel free to reach out through any of the links on the home page."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Medhat Said",
     "section": "Experience",
-    "text": "Experience\nCurrently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.\nPrevious modelling experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drugs effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory\nDevelopment of a minimal hysiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies\nStatistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients"
+    "text": "Experience\nCurrently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib, which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.\nPrevious modelling experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drug effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory\nDevelopment of a minimal physiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies\nStatistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Medhat Said",
     "section": "Teaching",
-    "text": "Teaching\nAdditionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to include PKPD and PKPD modelling in their course curriculum as well as teaching/giving lectures.\nPrevious teaching experiences include:\n\nBSc Pharmacokinetics & ADME course (2022, 2023)\nMsc Pharmacokinetics & ADME course (2022, 2023)"
+    "text": "Teaching\nAdditionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.\nPrevious teaching experiences include:\n\nBSc Pharmacokinetics & ADME course (2022, 2023)\nMSc Pharmacokinetics & ADME course (2022, 2023)"
   },
   {
     "objectID": "index.html#education",

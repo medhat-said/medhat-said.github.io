@@ -1,1 +1,16 @@
-/* css styles */
+/* Personal site styles */
+
+/* Give the profile photo a soft, modern finish */
+.about-image {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Smooth, subtle feedback on the social/contact links */
+.about-link {
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.about-link:hover {
+  transform: translateY(-2px);
+  opacity: 0.85;
+}

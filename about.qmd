@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-I will write something here soon. Cannot promise it to be interesting though.
+I am a pharmacometrician and PhD candidate in the Department of Clinical Pharmacology and Pharmacy at Amsterdam UMC. My work centres on population pharmacokinetic and pharmacodynamic (PKPD) modelling — using mathematical and statistical models to describe how drugs move through the body and produce their effects, and to translate that understanding into better dosing decisions.
+
+I trained at Leiden University, where I completed both my BSc and MSc in Bio-Pharmaceutical Sciences with a focus on Quantitative Pharmacology. Alongside my research, I enjoy teaching and supervising students, and helping to bring pharmacometric methods into the classroom.
+
+Feel free to reach out through any of the links on the [home page](index.qmd).

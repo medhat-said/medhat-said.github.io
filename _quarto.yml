@@ -4,6 +4,11 @@ project:
 
 website:
   title: "Medhat M. Said"
+  description: "Personal website of Medhat Said — pharmacometrician and PhD candidate in clinical pharmacometrics at Amsterdam UMC."
+  site-url: https://medhat-said.github.io
+  open-graph: true
+  twitter-card: true
+  favicon: images/medpic.jpeg
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +17,7 @@ website:
 
 format:
   html:
-    theme: 
+    theme:
       light: cosmo
       dark: solar
     css: styles.css
@@ -20,5 +25,3 @@ format:
     page-layout: full
 
 editor: visual
-
-

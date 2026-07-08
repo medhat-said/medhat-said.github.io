@@ -11,20 +11,20 @@
     "href": "resume.html#experience",
     "title": "Resume",
     "section": "Experience",
-    "text": "Experience\nCurrently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib, which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.\nPrevious modelling experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drug effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory\nDevelopment of a minimal physiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies\nStatistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients"
+    "text": "Experience\nCurrently, I am a postdoctoral researcher and pharmacometrician at the Princess Máxima Center for Pediatric Oncology (Máxima International) in Utrecht, where I help build and lead an international research programme with partner hospitals across Kenya, Indonesia, Malawi, Egypt, Suriname, and Eurasia.\nDuring my PhD at Amsterdam UMC, I focused on population pharmacokinetic and pharmacodynamic modelling of imatinib, which was studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.\nPrevious modelling experiences include:\n\nDevelopment of a novel cardiovascular systems model to quantify drug effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory\nDevelopment of a minimal physiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies\nStatistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients"
   },
   {
     "objectID": "resume.html#teaching",
     "href": "resume.html#teaching",
     "title": "Resume",
     "section": "Teaching",
-    "text": "Teaching\nAdditionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.\nPrevious teaching experiences include:\n\nBSc Pharmacokinetics & ADME course (2022, 2023)\nMSc Pharmacokinetics & ADME course (2022, 2023)"
+    "text": "Teaching\nDuring my PhD, I was also involved in teaching activities, which included supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.\nPrevious teaching experiences include:\n\nBSc Pharmacokinetics & ADME course (2022, 2023)\nMSc Pharmacokinetics & ADME course (2022, 2023)"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
     "section": "Education",
-    "text": "Education\n\nPhD in Clinical Pharmacometrics | Apr 2022 - ongoing\nDepartment of Clinical Pharmacology and Pharmacy, Amsterdam UMC | Amsterdam, the Netherlands\nMSc in Bio-Pharmaceutical Sciences | Sept 2019 - Mar 2022\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands\nBSc in Bio-Pharmaceutical Sciences | Sept 2016 - Jul 2019\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands"
+    "text": "Education\n\nPhD in Clinical Pharmacometrics | Apr 2022 - 2026\nDepartment of Clinical Pharmacology and Pharmacy, Amsterdam UMC | Amsterdam, the Netherlands\nMSc in Bio-Pharmaceutical Sciences | Sept 2019 - Mar 2022\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands\nBSc in Bio-Pharmaceutical Sciences | Sept 2016 - Jul 2019\nQuantitative Pharmacology & Pharmacy, LACDR, Leiden University | Leiden, the Netherlands"
   }
 ]

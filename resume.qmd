@@ -4,7 +4,9 @@ title: "Resume"
 
 ## Experience
 
-Currently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib, which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.
+Currently, I am a postdoctoral researcher and pharmacometrician at the Princess Máxima Center for Pediatric Oncology (Máxima International) in Utrecht, where I help build and lead an international research programme with partner hospitals across Kenya, Indonesia, Malawi, Egypt, Suriname, and Eurasia.
+
+During my PhD at Amsterdam UMC, I focused on population pharmacokinetic and pharmacodynamic modelling of imatinib, which was studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.
 
 Previous modelling experiences include:
 
@@ -16,7 +18,7 @@ Previous modelling experiences include:
 
 ## Teaching
 
-Additionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.
+During my PhD, I was also involved in teaching activities, which included supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.
 
 Previous teaching experiences include:
 
@@ -26,7 +28,7 @@ Previous teaching experiences include:
 
 ## Education
 
--   PhD in Clinical Pharmacometrics \| Apr 2022 - *ongoing*
+-   PhD in Clinical Pharmacometrics \| Apr 2022 - 2026
 
     Department of Clinical Pharmacology and Pharmacy, Amsterdam UMC \| Amsterdam, the Netherlands
 

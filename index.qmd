@@ -21,42 +21,10 @@ about:
       href: mailto:medhatalamoudi@hotmail.com
 ---
 
-Welcome! I am a pharmacometrician and PhD candidate at Amsterdam UMC, where I develop pharmacokinetic--pharmacodynamic (PKPD) models to help make drug therapy safer and more effective.
-
 ::: {#hero-heading}
-## Experience
+I'm a postdoctoral researcher and pharmacometrician at the Princess Máxima Center for Pediatric Oncology in Utrecht, within Máxima International. I help build and lead an international research programme with partner hospitals across Kenya, Indonesia, Malawi, Egypt, Suriname, and Eurasia, where we develop and implement studies aimed at improving cancer treatment for children worldwide.
 
-Currently, I am focusing on population pharmacokinetic and pharmacodynamic modelling of imatinib, which is being studied for its repurposing potential in other disease indications including COVID-19 ARDS and PAH.
+At the heart of my work is a simple question: how can we make sure every child receives the right dose of the right drug, regardless of where they live?
 
-Previous modelling experiences include:
-
--   Development of a novel cardiovascular systems model to quantify drug effects on the inter-relationship between contractility and other hemodynamic variables using pressure-volume loop theory
-
--   Development of a minimal physiologically based pharmacokinetic (PBPK) model to predict pharmacokinetics and target disposition for recycling and sweeping antibodies
-
--   Statistical analysis (LASSO and Elastic net regression) of a high-dimensional set of metabolites in order to discover host-associated biomarkers for identification of pathogens in community-acquired pneumonia (CAP) patients
-
-## Teaching
-
-Additionally, I am involved in teaching activities which include supervising students for their research internships, working together with instructors to incorporate PKPD modelling into their course curriculum, as well as giving lectures.
-
-Previous teaching experiences include:
-
--   BSc Pharmacokinetics & ADME course (2022, 2023)
-
--   MSc Pharmacokinetics & ADME course (2022, 2023)
-
-## Education
-
--   PhD in Clinical Pharmacometrics \| Apr 2022 - *ongoing*
-
-    Department of Clinical Pharmacology and Pharmacy, Amsterdam UMC \| Amsterdam, the Netherlands
-
--   MSc in Bio-Pharmaceutical Sciences \| Sept 2019 - Mar 2022
-
-    Quantitative Pharmacology & Pharmacy, LACDR, Leiden University \| Leiden, the Netherlands
-
--   BSc in Bio-Pharmaceutical Sciences \| Sept 2016 - Jul 2019
-
-    Quantitative Pharmacology & Pharmacy, LACDR, Leiden University \| Leiden, the Netherlands
+To answer that, I develop mathematical models that describe how anticancer drugs behave in the body and use them to understand why children respond differently to treatment. Most dosing guidelines are based on studies in high-income countries, yet children differ in their genetics, nutritional status, physiology, and the healthcare systems in which they receive treatment. By combining clinical pharmacology, pharmacometrics, pharmacogenomics, and implementation research, I work to understand that variability and translate it into treatment strategies that are practical, evidence-based, and tailored to the child in front of us.
 :::

@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Medhat M. Said"
-  description: "Personal website of Medhat Said — pharmacometrician and PhD candidate in clinical pharmacometrics at Amsterdam UMC."
+  description: "Personal website of Medhat Said — postdoctoral researcher and pharmacometrician at the Princess Máxima Center for Pediatric Oncology in Utrecht."
   site-url: https://medhat-said.github.io
   open-graph: true
   twitter-card: true
@@ -13,7 +13,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
